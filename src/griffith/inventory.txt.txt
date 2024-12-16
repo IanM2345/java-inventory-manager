@@ -1,0 +1,4 @@
+Item: Football, Weight:0.4
+Item: Playstation, Weight:4.5
+Item: Desktop Pc, Weight:10.2
+Item: Laptop, Weight: 6.3
